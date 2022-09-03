@@ -8,7 +8,7 @@ h1 {
     align-items: center;
 }
 
-@media (max-width: 540px) {
+@media (max-width: 375px) {
     #wholebody {
         display: flex;
         flex-direction: column;
