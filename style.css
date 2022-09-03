@@ -67,10 +67,10 @@ button {
 @media (max-width: 375px) {
     #firstsec {
         background-size: cover;
-        background-repeat: no-repeat;
+        background-repeat: repeat;
         height: 300px;
-        overflow: none;
-        min-width:375px:
+        
+        
     }
 }
 
