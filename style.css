@@ -21,7 +21,7 @@ a {
     flex: 1 1;
     justify-content: space-between;
     position: fixed;
-    Border: 2px solid;
+    Border: 2px solid white;
     border-radius: 10px 200px /120px;
 }
 
@@ -174,7 +174,7 @@ li {
     justify-content: space-between;
     background-color: #efc1a9;
     padding: 20px;
-    padding-left: 50%;
+    padding-left: 70%;
 
 
 }
