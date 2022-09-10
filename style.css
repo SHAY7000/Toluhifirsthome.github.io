@@ -76,6 +76,7 @@ button:hover {}
     font-size: larger;
     background-size: cover;
     background-repeat: no-repeat;
+     background-position: right;
 
 }
 
